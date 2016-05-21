@@ -1,9 +1,9 @@
 {
-    "name": "laurentbrieu/tcpdf",
+    "name": "hemanexus/tcpdf",
     "type": "library",
-    "description": "Composer wrapper for TCPDF PHP library",
+    "description": "Composer wrapper for TCPDF PHP library -- forked from below, upgraded to v6.2.12",
     "keywords": ["tcpdf", "pdf"],
-    "homepage": "https://github.com/LaurentBrieu/TCPDF",
+    "homepage": "https://github.com/hemanexus/TCPDF",
     "license": "MIT",
     "authors": [
         {
